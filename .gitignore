@@ -1,2 +1,13 @@
 ./Assignment1/RAG_Model_Eval/AWS_S3/.env
 ./Assignment1/RAG_Model_Eval/Streamlit_app/.env
+./Assignment1/.DS_Store
+./Assignment1/RAG_Model_Eval/.DS_Store
+./Assignment1/RAG_Model_Eval/AWS_S3/.DS_Store
+./Assignment1/RAG_Model_Eval/Streamlit_app/assignment_env/Lib/site-packages/.DS_Store
+./Assignment1/RAG_Model_Eval/Streamlit_app/assignment_env/Lib/site-packages/pydeck/.DS_Store
+./Assignment1/RAG_Model_Eval/Streamlit_app/assignment_env/Lib/site-packages/pydeck/io/.DS_Store
+./Assignment1/RAG_Model_Eval/Streamlit_app/assignment_env/Lib/site-packages/pydeck/nbextension/.DS_Store
+./Assignment1/RAG_Model_Eval/Streamlit_app/assignment_env/Lib/site-packages/pydeck/nbextension/static/.DS_Store
+./.DS_Store
+./Assignment2/Automated Text Extraction/.DS_Store
+./Assignment2/Automated Text Extraction/Airflow/.DS_Store
