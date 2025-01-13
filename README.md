@@ -1,3 +1,3 @@
 # Big_Data_Intelligence_Analytics_Projects
 
-Under progress
+Testing Git configuration from VS Code.
